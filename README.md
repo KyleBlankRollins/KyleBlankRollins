@@ -6,14 +6,24 @@ them, and works on the tooling behind
 [MongoDB's official agent skills](https://github.com/mongodb/agent-skills).
 
 I came up through docs-as-code: documentation that's versioned, tested, reviewed, and
-built with the same tools as the software it describes. Outside work I'm building docs
-tooling, small web libraries, agent skills, and a few Godot games.
+built with the same tools as the software it describes.
 
-### What I'm working on
+### 🌱 Bryo Studio
+
+Outside work, I make games, mobile apps, and other software as
+[**Bryo Studio**](https://bryostudio.com): small software, grown slowly. It's named
+for bryophytes, the mosses that grow quietly on stones by rivers.
 
 | Project | What it is |
 | --- | --- |
-| [**Ascribe**](https://github.com/ascribed-dev/ascribe) | Documentation as code: a markup language, a checker, and a compiler that outputs a website, Markdown, and JSON. Written in Rust. [ascribed-dev.com](https://ascribed-dev.com) |
+| [**Pizza Ambulance**](https://bryostudio.com/pizza-ambulance/) | The studio's first game: ride a bicycle across a hilly town with a tower of pizzas on the back, and get them there hot and whole. Made with Godot, coming to Android first. |
+| [**Ascribe**](https://github.com/ascribed-dev/ascribe) | Documentation as code: a markup language, a checker, and a compiler that outputs a website, Markdown, and JSON. Written in Rust, free and open source. [ascribed-dev.com](https://ascribed-dev.com) |
+| [**bryostudio.com**](https://github.com/KyleBlankRollins/bryostudio) | The studio's site, built with Astro, with a pixel riverbank where moss slowly grows over the stones. |
+
+### Other projects
+
+| Project | What it is |
+| --- | --- |
 | [**Meowzer**](https://github.com/KyleBlankRollins/meowzer) | Autonomous, animated cats for the web, with separate libraries for creation, movement, AI behavior, and storage. |
 | [**Blueprint**](https://github.com/KyleBlankRollins/blueprint) | A portable, customizable web component library built on Lit. |
 | [**kbr-skills**](https://github.com/KyleBlankRollins/kbr-skills) | Portable Agent Skills for Claude Code, Copilot, Codex, Gemini CLI, Cursor, and other harnesses that support the open standard. |
